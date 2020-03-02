@@ -6,7 +6,7 @@ This simple code will iterate python codes with dealays, and move/delete files i
 
 To run: 
 &nbsp;&nbsp;1.  Move pythonRepeator.py to the same directory where the script to be reapeated is located.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.  python pythonRepeator.py  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.  python pythonRepeator.py  
     
     
 PERSONAL NOTE :: NEW GOAL
