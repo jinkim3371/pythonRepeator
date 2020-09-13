@@ -9,6 +9,8 @@ To run:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.  python pythonRepeator.py  
     
     
-PERSONAL NOTE :: NEW GOAL
+    
+     
+NOTE :: NEW GOAL
 1. Develop GUI.
 2. Conver to .exe format. (need to add function to locate the python script to be repeated)
